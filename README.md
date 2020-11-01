@@ -1,0 +1,2 @@
+# Arduino-Input-Sensor-Ultrasonik
+Gelombang ultrasonik merupakan gelombang yang umum digunakan untuk radar untuk mendeteksi keberadaan suatu benda dengan memperkirakan jarak antara sensor dan benda tersebut. sensor jarak yang umum digunakan dalam penggunaan untuk mendeteksi jarak yaitu sensor ultrasonik. pengertian sensor ultrasonik adalah sebuah sensor yang berfungsi untuk mengubah besaran fisis (bunyi) menjadi besaran listrik dan sebaliknya.
